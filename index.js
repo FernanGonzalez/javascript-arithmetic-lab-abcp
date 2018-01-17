@@ -18,3 +18,8 @@ function divide(a, b) {
   return c;
 }
 
+function inc(n) {
+  var n;
+  n++
+  return n;
+}
