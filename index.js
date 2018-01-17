@@ -3,7 +3,7 @@ function add(a, b) {
   return c;
 }
 
-function substract(a, b) {
+function subtract(a, b) {
   var c=a-b;
   return c;
 }
